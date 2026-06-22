@@ -1,0 +1,6 @@
+{
+  "name": "Fragments of Soul",
+  "description": "A modern, dark-mode poetry app inspiring emotional healing through poetry",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
